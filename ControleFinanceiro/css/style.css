@@ -1,0 +1,44 @@
+.bg{
+    background-color: blueviolet;
+}
+
+.tudo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.quadradologin{
+    border-radius: 10px;
+    height: 250px;
+    width: 300px;
+    background-color:  rgb(177, 177, 177);
+}
+
+.textbox{
+    margin-left: 15px;
+    margin-top: 30px;
+    width: 125px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.botoes{
+    width: 100px;
+    height: 30px;
+    border-radius: 8px;
+    margin-top: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: rgb(103, 104, 105);
+}
+
+.quadradocadastro{
+    border-radius: 10px;
+    height: auto;
+    width: 300px;
+    background-color:  rgb(177, 177, 177);
+}
+
+   
